@@ -19,6 +19,7 @@ src/
 ├── set/
 ├── funcoes/
 ├── poo/
+├── PrimeirosPassos.java
 ```
 
 Cada pasta contém exemplos e exercícios relacionados ao tema, com classes independentes.
